@@ -1,0 +1,26 @@
+[
+    {
+        "id" : 1,
+        "name" : "Capsule",
+        "price" : 500,
+        "imgUrl" : "imgs/capsule.jpg"
+    },
+    {
+        "id" : 2,
+        "name" : "Magic Baton",
+        "price" : 1500,
+        "imgUrl" : "imgs/magic-baton.jpg"
+    },
+    {
+        "id" : 3,
+        "name" : "Potala",
+        "price" : 3000,
+        "imgUrl" : "imgs/potala.jpg"
+    },
+    {
+        "id" : 4,
+        "name" : "Senzu",
+        "price" : 1250,
+        "imgUrl" : "imgs/senzu.jpg"
+    }
+]

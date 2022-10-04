@@ -1,0 +1,9 @@
+.cardImg {
+    height: 200px;
+    object-fit: cover;
+    box-sizing: border-box;
+}
+
+.altBtn {
+    gap: .5rem
+}
